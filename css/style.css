@@ -2270,3 +2270,8 @@ ul, ol {
 		transform: translateY(-60px);
 	}
 }
+
+.hero-section{
+	width: 100%;
+	overflow: hidden;
+}
